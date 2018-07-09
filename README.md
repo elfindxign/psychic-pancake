@@ -1,6 +1,6 @@
-#pancake 
+# Psychic-pancake 
 
-##HI
+## HI
 
 ## How to start git
 1. download git
