@@ -15,5 +15,5 @@ git config --global core.editor "vim"
 
 7. git add
 8. git commit
-
+9. git push
 
